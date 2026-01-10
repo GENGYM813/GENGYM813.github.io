@@ -14,6 +14,6 @@ This is the front page of a website that is powered by the [Academic Pages templ
 A data-driven personal website
 ======
 
-I am a first-year Ph.D. student in [Peking University Stomatology Hospital]([https://www.nihds.pku.edu.cn/]), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. Zhou Yongsheng](). My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.
+I am a first-year Ph.D. student in [Peking University Stomatology Hospital]([https://www.nihds.pku.edu.cn/]), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. Zhou Yongsheng](). My research interests include biomaterial
 
 [Email](mailto:xxx@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
